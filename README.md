@@ -18,7 +18,7 @@ below are some examples of the implemented local operations.
 
 | Edge<br />Operations |            Illustration            |                    GIF from App                     |
 | :------------------: | :--------------------------------: | :-------------------------------------------------: |
-|       Dissolve       | ![](assignments/A2/figures/figures/local-dissolve-edge.png) |  |
+|       Dissolve       | ![](assignments/A2/figures/local-dissolve-edge.png) |  |
 |        Split         | ![](assignments/A2/figures/local-split-edge.png) |  |
 |         Flip         | ![](assignments/A2/figures/local-flip-edge.png) |  |
 
