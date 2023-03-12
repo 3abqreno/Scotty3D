@@ -14,12 +14,12 @@ below are some examples of the implemented local operations.
 
 | Face<br />Operations |            Illustration            |            GIF from App            |
 | :------------------: | :--------------------------------: | :--------------------------------: |
-|        Inset         | ![](assignments/A2/figures/local-inset-vertex.png) |  |
+|        Inset         | ![](assignments/A2/figures/local-inset-vertex.png) | ![](gifs/inset_vertex.gif) |
 
 | Edge<br />Operations |            Illustration            |                    GIF from App                     |
 | :------------------: | :--------------------------------: | :-------------------------------------------------: |
-|       Dissolve       | ![](assignments/A2/figures/local-dissolve-edge.png) |  |
-|        Split         | ![](assignments/A2/figures/local-split-edge.png) |  |
-|         Flip         | ![](assignments/A2/figures/local-flip-edge.png) |  |
+|       Dissolve       | ![](assignments/A2/figures/local-dissolve-edge.png) | ![](dissolve_edge.gif) |
+|        Split         | ![](assignments/A2/figures/local-split-edge.png) | ![](gifs/split.gif) |
+|         Flip         | ![](assignments/A2/figures/local-flip-edge.png) | ![](gifs/flip_edge.gif) |
 
 |
