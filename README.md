@@ -14,7 +14,7 @@ below are some examples of the implemented local operations.
 
 | Face<br />Operations |            Illustration            |            GIF from App            |
 | :------------------: | :--------------------------------: | :--------------------------------: |
-|        Inset         | ![](assignments/A2/figures/local-inset-vertex.png |width=100px) | ![](gifs/inset_vertex.gif) |
+|        Inset         | ![](assignments/A2/figures/local-inset-vertex.png) | ![](gifs/inset_vertex.gif) |
 
 | Edge<br />Operations |            Illustration            |                    GIF from App                     |
 | :------------------: | :--------------------------------: | :-------------------------------------------------: |
